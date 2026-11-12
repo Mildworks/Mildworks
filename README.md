@@ -7,7 +7,14 @@
 mild@portlink: ~/readme $ neofetch
 ```
 
-<img src="asset/Mild4.png" alt="Mild" align="left" width="30%">
+<table>
+<tr>
+<td valign="middle" width="30%">
+
+<img src="asset/Mild4.png" alt="Mild" width="100%">
+
+</td>
+<td valign="middle">
 
 ```csharp
 --------------------------------------------------------------
@@ -43,7 +50,9 @@ of programming and software development.
 --------------------------------------------------------------
 ```
 
-<br clear="all">
+</td>
+</tr>
+</table>
 
 ## 🌐 Socials:
 <p>
@@ -68,6 +77,7 @@ of programming and software development.
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
+
 <!---
 Show spotify stats
 -->
@@ -77,3 +87,7 @@ Show spotify stats
 </a>
 
 </div>
+
+<p align="center">
+  <img src="asset/benner.png" alt="Banner" width="100%">
+</p>
