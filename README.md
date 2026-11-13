@@ -1,8 +1,8 @@
 <p align="center">
   <img src="asset/benner.png" alt="Banner" width="100%">
 </p>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu+Mono&size=27&pause=1000&color=32C6BD&width=1000&lines=Hello%2C+I%27m+Mild;Learning+full-stack+development;Building+apps+with+React+and+Node.js;Debugging%2C+learning%2C+and+building)](https://git.io/typing-svg)
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&pause=1000&width=435&lines=Hello%2C+I%E2%80%99m+Mild;Learning+full+stack+development;Debugging%2C+learning%2C+and+building)](https://git.io/typing-svg)
 
 ```zsh
 mild@portlink: ~/readme $ neofetch
