@@ -11,10 +11,12 @@
   <img align="left" width="95" src="asset/Mild4.png" alt="Discord Status">
 </a>
 
-### Hi 🙌 I'm MILD
-*Still learning, Still moving*
 
-## **About Me**
+### Hey, you found me! 👋
+*Audentes fortuna iuvat*
+### 𝄃𝄃𝄂𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄃𝄂𝄂𝄀𝄁𝄃𝄂𝄂𝄃
+##
+
 - Name: **Mild**
 - Location: **Indonesia**
 - Status: **Junior Developer & Graphic Designer**
