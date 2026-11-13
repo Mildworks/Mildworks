@@ -12,7 +12,7 @@ mild@portlink: ~/readme $ neofetch
 
 <table>
 <tr>
-<td valign="middle" width="30%">
+<td valign="middle" width="45%">
 
 <img src="asset/Mild4.png" alt="Mild" width="100%">
 
@@ -93,7 +93,7 @@ Show spotify stats
 </a>
 </td>
 <td align="center" valign="middle">
-<img src="asset/spotify.png" alt="Spotify" width="250">
+<img src="asset/spotify.png" alt="Spotify" width="500">
 </td>
 </tr>
 </table>
