@@ -21,7 +21,7 @@ mild@portlink: ~/readme $ neofetch
 --------------------------------------------------------------
 
 Name: Mild
-Subtitle: A passionate Developer & Creative Enthusiast
+Subtitle: A Junior Developer & Graphic Designer
 
 ◆ I’m currently working on: Building personal projects while
 learning and exploring full-stack development with the PERN
