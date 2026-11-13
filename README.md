@@ -7,7 +7,7 @@
 </p>
 
 ```zsh
-mild@portlink: ~/readme $ neofetch
+mild@biolinks: ~/readme $ neofetch
 ```
 
 <table>
