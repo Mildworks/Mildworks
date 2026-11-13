@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="asset/benner.png" alt="Banner" width="100%">
+  <img src="asset/benner2.png" alt="Banner" width="100%">
 </p>
 
 <p align="center">
@@ -100,5 +100,5 @@ Show spotify stats
 </div>
 
 <p align="center">
-  <img src="asset/benner.png" alt="Banner" width="100%">
+  <img src="asset/footer.png" alt="Banner" width="100%">
 </p>
